@@ -47,3 +47,24 @@
   width: 50%;
   background-color: maroon;
 }
+
+#padding1{
+  border: 1px solid black;
+  padding: 10%;
+  margin: 10%;
+}
+
+#padding2{
+  border: 1px solid black;
+  padding: 5px 1em;
+  margin: auto 10%,
+}
+
+#padding3{
+  padding: 3em 2em;
+}
+
+#padding4{
+  padding: auto 15%;
+  background-color: maroon;
+}
