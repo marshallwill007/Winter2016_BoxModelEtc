@@ -65,6 +65,29 @@
 }
 
 #padding4{
-  padding: auto 15%;
+  padding: 0 15%;
   background-color: maroon;
+}
+
+#margin1{
+  border: 1px solid black;
+  margin: 10%;
+}
+
+#margin2{
+  border: 1px solid black;
+  margin: 5px 10%;
+}
+
+#margin3{
+  margin: 2px 25%;
+}
+
+#margin4{
+  margin: 0 10px;
+  background-color: maroon;
+}
+
+#mrgin5{
+  margin: auto 75%;
 }
